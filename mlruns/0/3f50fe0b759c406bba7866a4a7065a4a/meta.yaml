@@ -1,0 +1,15 @@
+artifact_uri: file:///home/koomemukiiri/Documents/MLOps_Proj/mlruns/0/3f50fe0b759c406bba7866a4a7065a4a/artifacts
+end_time: 1749488246699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f50fe0b759c406bba7866a4a7065a4a
+run_name: burly-grouse-680
+run_uuid: 3f50fe0b759c406bba7866a4a7065a4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749488246398
+status: 3
+tags: []
+user_id: koomemukiiri

@@ -10,5 +10,5 @@ RUN pip install --default-timeout=100 -r requirements.txt
 COPY . .
 
 # Command to run the model training script
-CMD ["python","src/train.ipynb"]
+CMD ["python","src/train.py"]
 
